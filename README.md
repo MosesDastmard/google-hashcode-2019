@@ -1,3 +1,4 @@
+### Keywords: Java, Optimization, Algorithm Design, Google Hash Code, 
 # Google Hash Code 2020 - Qualification Round
 
 ![](image_hash_code.png)
